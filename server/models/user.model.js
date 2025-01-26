@@ -1,4 +1,4 @@
-import mongoose from "mongoose";
+ import mongoose from "mongoose";
 
 const userSchema = new mongoose.Schema({
     fullName: {
@@ -11,7 +11,7 @@ const userSchema = new mongoose.Schema({
         unique: true
     },
     phoneNumber: {
-        type: Number,
+        type: String,
         required: true
     },
     password: {
@@ -25,7 +25,7 @@ const userSchema = new mongoose.Schema({
     },
     profile: {
         bio: { type: String },
-        skills: { type: String },
+        skills: [{ type: String }],
         resume: { type: String },
         resumeOriginalName: { type: String },
         company: { type: mongoose.Schema.Types.ObjectId, ref: 'Company'},
