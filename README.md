@@ -52,9 +52,12 @@ CareersLK is a comprehensive platform that simplifies the job search and recruit
 
 ## Screenshots
 
-![Home Page](screenshots/home.png)
-![Job Details](screenshots/job-details.png)
-![Application Tracker](screenshots/tracker.png)
+![Home Page](screenshots/Screenshot%20(1).png)
+![Job Search Results](screenshots/Screenshot%20(2).png)
+![Job Details](screenshots/Screenshot%20(3).png)
+![Profile Settings](screenshots/Screenshot%20(4).png)
+![Company Registration](screenshots/Screenshot%20(7).png)
+![Posting New Job](screenshots/Screenshot%20(8).png)
 
 ---
 
