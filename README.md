@@ -4,6 +4,24 @@ CareersLK is a MERN stack job portal designed to bridge the gap between job seek
 
 ---
 
+## Table of Contents
+- [About the Project](#about-the-project)
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Screenshots](#screenshots)
+- [Installation](#installation)
+- [Deployment](#deployment)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+
+---
+
+## About the Project
+CareersLK is a comprehensive platform that simplifies the job search and recruitment process. By leveraging the power of modern web technologies, it provides users with an intuitive experience while maintaining high security and scalability.
+
+---
+
 ## Features
 
 ### For Job Seekers:
@@ -24,11 +42,19 @@ CareersLK is a MERN stack job portal designed to bridge the gap between job seek
 
 ## Tech Stack
 
-- Frontend: React.js with Tailwind CSS for responsive design.
-- Backend: Node.js with Express.js.
-- Database: MongoDB Atlas for cloud database management.
-- Authentication: JSON Web Tokens (JWT).
-- Cloud Services: Cloudinary for image hosting.
+- **Frontend:** React.js with Tailwind CSS for responsive design.
+- **Backend:** Node.js with Express.js.
+- **Database:** MongoDB Atlas for cloud database management.
+- **Authentication:** JSON Web Tokens (JWT).
+- **Cloud Services:** Cloudinary for image hosting.
+
+---
+
+## Screenshots
+
+![Home Page](screenshots/home.png)
+![Job Details](screenshots/job-details.png)
+![Application Tracker](screenshots/tracker.png)
 
 ---
 
@@ -61,12 +87,12 @@ CareersLK is a MERN stack job portal designed to bridge the gap between job seek
 
 4. Create a `.env` file in the `server` directory and add the following:
    ```env
-   MONGODB_URI=mongodb+srv://wadiyage567:AEPfa7ckBb06lP0C@carrierscluster.u2xse.mongodb.net/carriers
+   MONGODB_URI=mongodb+srv://<your-connection-string>
    PORT=8000
-   SECRET_KEY=g53J@H7lMz$10a8Pq3eXt@24X#!wGp!5Q6Sjn!L^X0uAv5qZm&s*
-   CLOUD_NAME=dpk4bzmue
-   API_KEY=294286878529432
-   API_SECRET=TpFqmJ4a1Juf2cpGtblhDY-hM18
+   SECRET_KEY=<your-secret-key>
+   CLOUD_NAME=<your-cloudinary-cloud-name>
+   API_KEY=<your-cloudinary-api-key>
+   API_SECRET=<your-cloudinary-api-secret>
    ```
 
 5. Start the development servers:
@@ -105,4 +131,18 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any queries or support, reach out to Sandaruwan Wadiyage. (mailto:wadiygage567@gmail.com).
+For any queries or support, reach out to:
+- **Sandaruwan Wadiyage**
+- Email: [wadiygage567@gmail.com](mailto:wadiygage567@gmail.com)
+
+---
+
+## Live Demo
+
+[CareersLK Live Site](https://careerslk.onrender.com)
+
+---
+
+## Video Walkthrough
+
+[Watch the Video on LinkedIn](https://linkedin.com/path-to-video)
