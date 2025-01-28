@@ -145,4 +145,4 @@ For any queries or support, reach out to:
 
 ## Video Walkthrough
 
-[Watch the Video on LinkedIn](https://linkedin.com/path-to-video)
+[Watch the Video on LinkedIn]([https://linkedin.com/path-to-video](https://www.linkedin.com/posts/sandaruwan-wadiyage_mernstack-webdevelopment-jobportal-activity-7289634410503540736-GCpX?utm_source=share&utm_medium=member_desktop))
